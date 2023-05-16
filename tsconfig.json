@@ -19,7 +19,7 @@
         "name": "next"
       }
     ],
-    "rootDir": "./",
+    "rootDir": ".",
     "paths": {
       "@/*": ["./app/*"]
     }
